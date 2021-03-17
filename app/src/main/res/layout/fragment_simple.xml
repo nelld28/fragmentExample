@@ -35,6 +35,7 @@
             android:layout_marginRight="8dp"
             android:text="@string/no"/>
 
-
     </RadioGroup>
+
+
 </LinearLayout>
