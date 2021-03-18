@@ -26,6 +26,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="next">Next</string>
-    <string name="previous">previous_button</string>
+    <string name="previous">previous</string>
 
 </resources>
